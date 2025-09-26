@@ -1,4 +1,3 @@
-
 // Clase Mago que hereda de Personaje
 class Mago extends Personaje {
     public Mago(String nombre, int nivel) {
